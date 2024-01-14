@@ -6,7 +6,7 @@ author: 'Marion JOLY'
 image:
     url: 'https://docs.astro.build/assets/full-logo-light.png'
     alt: 'The full Astro logo.'
-tags: ["REVENDICATIONS", "Culture"]
+tags: ["REVENDICATIONS", "Culture", "spectacle"]
 ---
 # Culture et spectacle vivant
 

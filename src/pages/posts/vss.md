@@ -9,7 +9,6 @@ image:
 tags: ["REVENDICATIONS", "Violences sexistes et sexuelles"]
 ---
 
-
 # Violences sexistes et sexuelles
 
 Dans le monde, une femme est violée toutes les 7 minutes. Chaque année en France, 94 000 femmes déclarent avoir été victimes de viol ou de tentative de viol et une femme est assassinée tous les deux jours par son compagnon ou ex-compagnon. À Paris, 100 % des femmes déclarent avoir été harcelées dans les transports en commun. D’après un article de France Info, un tiers des femmes en 2018 sur les 121 féminicides avait porté plainte. D’après « Nous toutes », sur 149 féminicides, 65% des femmes tuées avaient entrepris des démarches avec la justice, 18% des mains courantes ont abouti à une enquête, 15% des auteurs sont récidivistes, 80% des plaintes sont classées sans suite.

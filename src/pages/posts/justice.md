@@ -8,22 +8,14 @@ image:
     alt: 'The full Astro logo.'
 tags: ["REVENDICATIONS", "Justice"]
 ---
- #--------------------------------------------------#
-REVENDICATIONS - Justice -
-#--------------------------------------------------#
+# Justice
+Les chiffres énoncés lorsque nous parlions des violences sexistes et sexuelles sont affolants. Nous ne pouvons avancer avec à nos côtés une justice passive, permettant à cette violence continuelle de se propager. 
 
-- Justice -
-          Les chiffres énoncés lorsque nous parlions des violences sexistes et sexuelles sont affolants. Nous ne pouvons avancer avec à nos côtés une justice passive, permettant à cette violence continuelle de se propager. Il est important que de réelles mesures soient engagées. Nous voulons une justice qui nous protège. Une politique pénale pérenne de lutte contre les violences faites aux femmes doit être mise en place, après un état des lieux construit avec les associations féministes. Des modifications juridiques en matière pénale, de procédure pénale et en matière civile doivent être apportées.
+Il est important que de réelles mesures soient engagées. Nous voulons une justice qui nous protège. Une politique pénale pérenne de lutte contre les violences faites aux femmes doit être mise en place, après un état des lieux construit avec les associations féministes. 
 
-?
+Des modifications juridiques en matière pénale, de procédure pénale et en matière civile doivent être apportées.
 
-?
-
- 
-
-?
-
-?
+## Revendications
 
 Nous voulons que soit énoncé le principe de l’interdiction de correctionnaliser des infractions à caractère sexiste et/ou sexuel de nature criminelle ; 
 
