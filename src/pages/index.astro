@@ -1,5 +1,7 @@
 ---
-
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+const pageTitle = "NOTRE CAMPAGNE";
 ---
 
 <html lang="fr">
@@ -8,9 +10,11 @@
 		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
 		<meta name="viewport" content="width=device-width" />
 		<meta name="generator" content={Astro.generator} />
-		<title>Astro</title>
+		<title>{pageTitle}</title>
 	</head>
 	<body>
+		<Header />
+
 		<h1>Collectif « Citoyennes Amiénoises Féministes »
 			Pour une municipalité féministe !
 			</h1>
@@ -47,5 +51,6 @@
 			
 			
 			?</p>
+			<Footer />
 	</body>
 </html>
