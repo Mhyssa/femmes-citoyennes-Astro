@@ -1,7 +1,7 @@
 ---
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
-const pageTitle = "A propos";
+const pageTitle = "Nos co-maires";
 ---
 <html lang="fr">
   <head>
@@ -13,6 +13,23 @@ const pageTitle = "A propos";
 
 <body>
     <Header />
+    <div class="grid grid-flow-col grid-rows-2 grid-cols-3 gap-8">
+      <div>
+        <img src="src/assets/campagne_1.jpg" alt="" loading="lazy">
+      </div>
+      <div class="col-start-3">
+        <img src="src/assets/campagne_1.jpg" alt="" loading="lazy">
+      </div>
+      <div>
+        <img src="src/assets/campagne_1.jpg" alt="" loading="lazy">
+      </div>
+      <div>
+        <img src="src/assets/campagne_1.jpg" alt="" loading="lazy">
+      </div>
+      <div class="row-start-1 col-start-2 col-span-2">
+        <img src="src/assets/campagne_1.jpg" alt="" loading="lazy">
+      </div>
+    </div>
 <Footer />
 
 </body>
